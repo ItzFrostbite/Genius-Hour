@@ -1,0 +1,59 @@
+/* Lol I used Comic Sans */
+
+.headers {
+text-align: center;
+font-family: "Comic Sans MS";
+font-size: 25px;
+}
+
+.desc {
+text-align: center;
+font-size: 25px;
+font-family: "Comic Sans MS";
+}
+
+#subtitle {
+color: "black";
+font-family: "Comic Sans MS";
+text-align: center;
+}
+
+body {
+  background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#right {
+  float: right;
+}
+
+#left {
+  float: left;
+}
+
+.span {
+  font-size: 20px;
+  font-family: "comic sans ms"
+}
+
+.Gnome {
+  color: transparent;
+  opacity: 0;
+}
+
+.gnome1 {
+  text-align: center;
+  font-family: "comic sans ms"
+}
+
+#left1 {
+  float: left;
+  font-size: 20px;
+  font-family: "comic sans ms"
+}
+
+.span1 {
+  font-size: 50px;
+  text-align: center;
+}
