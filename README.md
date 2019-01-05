@@ -1,2 +1,2 @@
 # GeniusHour
-My Genius Hour Project (it sucks)
+Pretty basic but people non-coders are amazed
