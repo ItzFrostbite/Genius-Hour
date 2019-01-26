@@ -28,10 +28,12 @@ body {
 
 #right {
   float: right;
+  font-size: 20px;
 }
 
 #left {
   float: left;
+  font-size: 20px;
 }
 
 .span {
@@ -39,14 +41,9 @@ body {
   font-family: "comic sans ms"
 }
 
-.Gnome {
-  color: transparent;
-  opacity: 0;
-}
-
-.gnome1 {
-  text-align: center;
-  font-family: "comic sans ms"
+iframe {
+  display: block;
+  margin: 0 auto;
 }
 
 #left1 {
@@ -58,4 +55,26 @@ body {
 .span1 {
   font-size: 50px;
   text-align: center;
+}
+
+.center {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 32px;
+}
+
+#top {
+  float: inherit;
+}
+
+.wrapper{
+  width:100%;
+  display:flex;
+  justify-content:left; /* this aling it to the center */
+  flex-wrap:nowrap; /* this will get image on the next line */
+}
+
+#strech {
+  float: right;
+
 }
