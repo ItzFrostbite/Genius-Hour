@@ -1,2 +1,3 @@
 # GeniusHour
-Amazing for non-coders 
+Work in procress
+
