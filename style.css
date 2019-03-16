@@ -60,4 +60,6 @@ iframe {
 iframe {
 	margin-left: auto;
 	margin-right: auto;
+	width: 65%;
+	height: 690px;
 }
